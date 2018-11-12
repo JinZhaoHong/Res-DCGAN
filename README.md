@@ -1,1 +1,1 @@
-# Res-DCGAN
+# amazones
